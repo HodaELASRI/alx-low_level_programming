@@ -1,3 +1,7 @@
+/*this function specify if 
+ * a number is positive or negative or zero
+*/
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -5,7 +9,6 @@
 
 int main(void)
 {
-	/*this function specify if a number is positive or negative or zero*/
 	int n;
 
 	srand(time(0));
