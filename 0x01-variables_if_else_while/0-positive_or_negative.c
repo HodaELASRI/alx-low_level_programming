@@ -6,6 +6,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/*
+ * This is the main function that runs the program.
+ * and determines if it is positive or negative.
+ */
 
 int main(void)
 {
