@@ -6,7 +6,7 @@
  * main - Entry point
  *
  * Description: This function is the entry point of the program.
- * 		It executes first when the program is run and
+ *		It executes first when the program is run and
  *		it will print if n is positive or negative or zero.
  *
  * Return: Always 0 (Success)
