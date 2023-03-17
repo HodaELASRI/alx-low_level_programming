@@ -1,12 +1,16 @@
-/*
- * Describtion: This is the main function that runs the program.
- * and determines if it is positive or negative.
- */
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Description: This function is the entry point of the program.
+ *              It executes first when the program is run and
+ *    		it will print if n is positive or negative or zero.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
