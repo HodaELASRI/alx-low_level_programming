@@ -1,11 +1,10 @@
-/*this function specify if 
- * a number is positive or negative or zero
-*/
-
+/*
+ * This is the main function that runs the program. It prompts the user for a number,
+ * and determines if it is positive or negative.
+ */
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 
 int main(void)
 {
@@ -21,4 +20,4 @@ int main(void)
 	else 
 		printf("%d is zero\n", n);
 	return (0);
-	}
+}
