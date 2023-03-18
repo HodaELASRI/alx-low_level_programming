@@ -10,11 +10,11 @@
 int main(void)
 {       char letter;
 
-        letter = 'z';
-        do {
-                putchar(letter);
-                letter--;
-        } while (letter >= 'a');
-        putchar('\n');
-        return (0);
+	letter = 'z';
+	do {
+		putchar(letter);
+		letter--;
+	} while (letter >= 'a');
+	putchar('\n');
+	return (0);
 }
